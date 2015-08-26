@@ -16,12 +16,6 @@ The samples demonstrate how to incorporate the Intel® INDE Media for Mobile into
 
 Intel INDE® Media for Mobile is available to download at [https://software.intel.com/en-us/intel-inde](https://software.intel.com/en-us/intel-inde) site as a part of Intel INDE suite.
 
-
-
-User Experience and applications promotion
-------------------------------------------
-Send your feedbacks, suggestions and information about applications developed using Intel® INDE Media for Mobile to <m4m@intel.com>. Media for Mobile team is very interested in customers experience and promoting customers applications at Intel® Developer Zone and different type of events.
-
  
 
 Tutorials
