@@ -1,7 +1,7 @@
 
 Media for Mobile Samples
 ========================
-Part of the Intel® Integrated Native Developer Experience (Intel® INDE) 2015
+Part of the IntelÂ® Integrated Native Developer Experience (IntelÂ® INDE) 2015
 
 **Version 1.2.0**
 
@@ -10,13 +10,13 @@ Part of the Intel® Integrated Native Developer Experience (Intel® INDE) 2015
 Overview
 --------
 
-The Intel® Integrated Native Developer Experience (Intel® INDE) Media for Mobile is a set of easy to use components and API for a wide range of media scenarios such as video editing, capturing, streaming and content recognition. It contains several complete pipelines for most popular use cases and provides a possibility to add user-developed components to those pipelines.
+The IntelÂ® Integrated Native Developer Experience (IntelÂ® INDE) Media for Mobile is a set of easy to use components and API for a wide range of media scenarios such as video editing, capturing, streaming and content recognition. It contains several complete pipelines for most popular use cases and provides a possibility to add user-developed components to those pipelines.
 
-The samples demonstrate how to incorporate the Intel® INDE Media for Mobile into various applications for Android*, iOS* and Windows* RT.
+The samples demonstrate how to incorporate the IntelÂ® INDE Media for Mobile into various applications for Android*, iOS* and Windows* RT.
 
-Intel INDE® Media for Mobile is available to download at [https://software.intel.com/en-us/intel-inde](https://software.intel.com/en-us/intel-inde) site as a part of Intel INDE suite.
+Intel INDEÂ® Media for Mobile is available to download at [https://software.intel.com/en-us/intel-inde](https://software.intel.com/en-us/intel-inde) site as a part of Intel INDE suite.
 
- 
+**Update 11/27/2015**: Media for Mobile as a part of Intel INDE is currently unavailable, we apologize for any inconvenience. We are going to open source the Media for Mobile library at the end of December, please stay tuned. If someone needs a standalone version of Media for Mobile installer, please drop a message at m4m@intel.com and we will share the package.
 
 Tutorials
 ---------
@@ -31,7 +31,7 @@ Tutorials
 
 [Building Qt* Samples for Android and iOS*](https://software.intel.com/en-us/articles/intel-inde-media-for-mobile-tutorials-cross-platform-qt-sample): overview of steps needed to build the Qt* samples in Qt* Creator IDE.
 
-Other tutorials that might help you to get started with the Intel® INDE Media for Mobile available at [https://software.intel.com/en-us/intel-inde/media-pack](https://software.intel.com/en-us/intel-inde/media-pack) page
+Other tutorials that might help you to get started with the IntelÂ® INDE Media for Mobile available at [https://software.intel.com/en-us/intel-inde/media-pack](https://software.intel.com/en-us/intel-inde/media-pack) page
 
  
 
@@ -41,7 +41,7 @@ System Requirements
 **Host systems to develop applications for Android*:**
 
 - Operating Systems: Microsoft* Windows*, Apple* OS X* or Linux* 
-- Intel® Integrated Native Developer Experience (Intel® INDE) 2015 for Windows* or OS X* – Media For Mobile component 
+- IntelÂ® Integrated Native Developer Experience (IntelÂ® INDE) 2015 for Windows* or OS X* â€“ Media For Mobile component 
 - IDE: Eclipse*, Google* Android* Studio or JetBrains* IntelliJ IDEA* 
 - Android Platform SDK 
 - Java* Development Kit (JDK) 6 or later
@@ -50,24 +50,24 @@ System Requirements
 **Host systems to develop applications for Windows*:**
 
 - Operating Systems: Microsoft* Windows* 8.1 
-- Intel® Integrated Native Developer Experience (Intel® INDE) 2015 for Windows* – Media For Mobile component 
+- IntelÂ® Integrated Native Developer Experience (IntelÂ® INDE) 2015 for Windows* â€“ Media For Mobile component 
 - IDE: Microsoft* Visual Studio* 2013 Update 2 or later
 
 **Host systems to develop applications for iOS*:**
 
 - Operating Systems: Apple* OS X* 10.9 
-- Intel® Integrated Native Developer Experience (Intel® INDE) 2015 for Mac OS X – Media For Mobile component 
+- IntelÂ® Integrated Native Developer Experience (IntelÂ® INDE) 2015 for Mac OS X â€“ Media For Mobile component 
 - IDE: Apple XCode* 5.1 or later 
 - Qt* 5.3 to build Media for Mobile Qt samples
 
 **Android* target systems:** 
 Hardware:
-- Intel® Atom™ and ARM* based phones and tablets.
+- IntelÂ® Atomâ„¢ and ARM* based phones and tablets.
 - Operating Systems: Google* Android* Jelly Bean 4.3 or higher
 
 **Windows* target systems:**
 
-- Hardware: IA-32 or Intel® 64 architecture processors
+- Hardware: IA-32 or IntelÂ® 64 architecture processors
 - Operating System: Microsoft* Windows* 8.1
 
 **iOS* target systems:**
@@ -78,7 +78,7 @@ Hardware:
 List of available samples
 -------------------------
 
-The following samples are available for the Intel® INDE Media for Mobile:
+The following samples are available for the IntelÂ® INDE Media for Mobile:
 
 **Samples for Android* targets**
 
@@ -122,7 +122,7 @@ Content recognition sample
 Known Limitations
 -----------------
 
-Please see the list of open issues in Intel® INDE Media for Mobile samples repository here: https://github.com/INDExOS/media-for-mobile/issues
+Please see the list of open issues in IntelÂ® INDE Media for Mobile samples repository here: https://github.com/INDExOS/media-for-mobile/issues
 
 Legal Information
 -----------------
