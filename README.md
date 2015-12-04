@@ -16,7 +16,7 @@ The samples demonstrate how to incorporate the Intel® INDE Media for Mobile int
 
 Intel INDE® Media for Mobile is available to download at [https://software.intel.com/en-us/intel-inde](https://software.intel.com/en-us/intel-inde) site as a part of Intel INDE suite.
 
-**Update 11/27/2015**: Media for Mobile as a part of Intel INDE is currently unavailable, we apologize for any inconvenience. We are going to open source the Media for Mobile library at the end of December, please stay tuned. If someone needs a standalone version of Media for Mobile installer, please drop a message at m4m@intel.com and we will share the package.
+**Update 11/27/2015**: Media for Mobile as a part of Intel INDE is currently unavailable, we apologize for any inconvenience. We  consider to open source the Media for Mobile library. If you would like to contribute to the open source Media for Mobile, please contact us at m4m@intel.com.
 
 Tutorials
 ---------
